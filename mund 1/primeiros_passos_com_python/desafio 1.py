@@ -1,0 +1,5 @@
+nome = input('qual seu nome?')
+print('boas vindas,' , nome)
+print('========')
+nome1 = input('Oi! Qual é seu nome? ')
+print('boas vindas', nome1 ,'prazer em te conhecer!')
