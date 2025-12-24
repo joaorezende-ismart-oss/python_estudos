@@ -1,0 +1,7 @@
+print('===media dos alunos===')
+n1 = float(input('Quanto você tirou na sua ultima prova de matematica? '))
+n2 = float(input('E na sua penultima? '))
+n3 = float(input('E na antipenultima? '))
+print('Você deve estar chutando qualquer numero né???')
+n4 = float(input('Então chuta mais um ai: '))
+print('A media as suas notas... \n (concerteza não são numeros que você chuto) \n é de {:.1f}'.format((n1 + n2 + n3 + n4) / 4))

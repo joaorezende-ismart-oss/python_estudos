@@ -1,0 +1,11 @@
+nome = input('Qual é seu nome de jogador?? ')
+print('Bem vindo/a {:=^20}'.format(nome))
+print('Rapido!!!! Quanto é 5 * 2 + 7 - 3 ** 17 / 13 ? \n COMO QUE VC NÃO CONSEGUE RESOLVER UMA CONTA FACIL DESSAS!!!!')
+print('{} tá vendo dá um resultado muito simples'.format(5 * 2 + 7 - 3 ** 17 / 13 ))
+print('Vamos pra uma mais facil então, quanto é: 5 * 7 + 3 / 15 - 2 ** 2 \n Poxa, você não consegue fazer essa conta!!!!!!')
+print('É claro que o resultado é igual a {}'.format(5 * 7 + 3 / 15 - 2 ** 2))
+print('Vamos pra uma mais facíl ainda então: Quanto é... \n A divisão inteira e o resto da divisõ de 7 por 4')
+print('Essa você acertou, não é possivel, o resultado é:', end=' ')
+print('{} e {}'.format(7//4 , 7%4))
+print('A ultima agora de verdade, quanto é: 3 elevado a 23? \n CLARO QUE É ESSE PEQUENO NUMERO NÉ: {}'.format(pow(3,23)))
+      
