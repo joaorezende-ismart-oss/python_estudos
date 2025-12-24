@@ -1,2 +1,6 @@
-# python_estudos
-Repositório com meus estudos em Python, organizados por assunto. Contém exercícios, exemplos práticos e mini projetos desenvolvidos durante o aprendizado de lógica de programação, fundamentos da linguagem e uso de módulos.
+# Python Estudos
+Este repositório reúne meus estudos em Python, com exercícios e mini projetos organizados por assunto. O objetivo é consolidar os fundamentos da linguagem, a lógica de programação e boas práticas de organização de código.
+
+A estrutura do repositório segue o formato do curso **Python – Curso em Vídeo**, com os conteúdos organizados por mundos e módulos. 
+
+Os códigos presentes aqui foram desenvolvidos durante o estudo dos temas abordados no curso, servindo como registro da minha evolução e prática contínua na linguagem Python.
