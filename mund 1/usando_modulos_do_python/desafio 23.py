@@ -1,0 +1,6 @@
+num = int(input('Digite um numero: '))
+print('Analisando o numero {}...'.format(num))
+print('O numero inserido contem {} unidades'.format(num // 1 % 10))
+print('{} dezenas'.format(num // 10 % 10))
+print('{} centenas'.format(num // 100 % 10))
+print('{} milhares'.format(num // 1000 % 10))

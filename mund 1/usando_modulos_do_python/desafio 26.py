@@ -1,0 +1,10 @@
+frase = str(input('Escreva uma frase: ')).strip()
+frase2 = frase.lower().replace('ã', 'a') #str
+print('No seu nome a letra "a" aparece {} vezes'.format(frase2.count('a')))
+frase3 = frase2.find('a')
+print('O primeiro "a" no seu nome aparece na posição {} (começando de zero)'.format(frase3))
+print('E na posição {} (começando de um)'.format(frase3 + 1))
+frase4 = frase2.rfind('a')
+print(frase4)
+print('O o ultimo "a" no seu nome está na posição {} (começando de zero)'.format(frase4))
+print('E o ultimo "a" no seu nome está na posição {} (começando de um)'.format(frase4 + 1))
