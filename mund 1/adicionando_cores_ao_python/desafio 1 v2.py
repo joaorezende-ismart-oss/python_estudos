@@ -6,7 +6,10 @@ cores = {
 }
 
 nome = input('qual seu nome? ')
+
 print('boas vindas, {}{}{}'.format(cores['verde'], nome, cores['limpa']))
 print('========')
+
 nome1 = input('Oi! Qual é seu nome? ')
+
 print('boas vindas {}{}{} prazer em te conhecer!'.format(cores['azul'], nome1, cores['limpa']))
